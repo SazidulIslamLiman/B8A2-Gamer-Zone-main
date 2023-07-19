@@ -1,0 +1,38 @@
+.banar{
+    display: flex;
+    background-color: #FFF;
+    width: 1920;
+    height: 130;
+}
+
+.logo{
+    display: flex;
+    gap: 10px;
+    margin-left: 240px;
+    margin-top: 14px;
+    text-align: center;
+}
+
+.banar-batunr{
+    display: flex;
+    text-decoration: none;
+    gap: 20px;
+    text-align: center;
+    margin-left: 900px;
+    list-style: none;
+    align-items: center;
+}
+
+.url{
+    text-decoration: none;
+    color: #3C354F;
+}
+
+.mane-button{
+    width: 262px;
+    height: 56px;
+}
+
+.mane-hader{
+    
+}

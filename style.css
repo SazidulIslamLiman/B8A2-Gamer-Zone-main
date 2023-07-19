@@ -34,5 +34,60 @@
 }
 
 .mane-hader{
-    
+    background-image: url("./images/Group\ 14.png");
+    width: 900px;
+    height: 700px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+li{
+    list-style: none;
+}
+
+.sign-in{
+    padding: 21px 40px;
+    background-color: plum;
+    border-radius: 48px;
+    border: none;
+}
+
+.go-rogue{
+    padding: 21px 40px;
+    background-color: rgb(0, 183, 255);
+    border-radius: 48px;
+    border: none;
+
+}
+
+.heder{
+    display: flex;
+}
+
+.goat{
+    font-size: 90px;
+    color: rgb(90, 0, 99);
+}
+
+.we-are{
+    width: 1920px;
+    height: 600px;
+    background-color: #fae9f2;
+    padding-left: 30px;
+    display: flex; 
+    gap: 300px;
+}
+
+.we-are-heder{
+    font-size: 48px;
+    color: #68006b;
+    text-align: right;
+}
+
+.we-are-p{
+    text-align: right;
+}
+
+.online-gamer{
+    margin-left: 600px;
 }

@@ -89,5 +89,50 @@ li{
 }
 
 .online-gamer{
-    margin-left: 600px;
+    margin-left: 800px;
+}
+
+.images-comtenar{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+}
+
+.funny-video{
+    color: #bf00c5;
+}
+
+.play-instantly{
+    display: flex;
+    margin-left: 450px;
+    gap: 25px;
+}
+
+.play-text{
+    text-align: right;
+    margin-top: 200px;
+}
+
+.play-image{
+    margin-right: 200px;
+}
+
+.footer-1{
+    background-color: #0B0223;
+    color: white;
+    width: 1900px;
+    height: 650px;
+}
+
+.footer-li{
+    display: flex;
+    margin-left: 700px;
+    gap: 60px;
+}
+
+.foter-hading{
+    display: flex;
+    margin-left: 700px;
+    gap: 25px;
+    padding: 100px;
 }
